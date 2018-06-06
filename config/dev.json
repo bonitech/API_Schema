@@ -1,0 +1,17 @@
+{
+  "Env": {
+    "port": "8080"
+  },
+  "DB": {
+    "url": "urrrrrrrl",
+    "port": "pppppp",
+    "user": "uuuuuuu",
+    "pass": "xxxxxx"
+  },
+  "Redis": {
+    "url": "",
+    "port": "",
+    "user": "",
+    "pass": ""
+  }
+}
